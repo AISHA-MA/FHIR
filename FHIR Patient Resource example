@@ -1,0 +1,52 @@
+{
+  "resourceType": "Patient",
+  "id": "example-patient-1",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Example Patient</div>"
+  },
+  "identifier": [
+    {
+      "use": "usual",
+      "system": "http://hospital.smarthealth.org/patients",
+      "value": "12345"
+    }
+  ],
+  "active": true,
+  "name": [
+    {
+      "use": "official",
+      "family": "Smith",
+      "given": [
+        "John",
+        "A."
+      ]
+    }
+  ],
+  "gender": "male",
+  "birthDate": "1980-05-15",
+  "address": [
+    {
+      "use": "home",
+      "line": [
+        "123 Main Street"
+      ],
+      "city": "Metropolis",
+      "state": "NY",
+      "postalCode": "12345",
+      "country": "USA"
+    }
+  ],
+  "telecom": [
+    {
+      "system": "phone",
+      "value": "+1-202-555-0183",
+      "use": "mobile"
+    },
+    {
+      "system": "email",
+      "value": "john.smith@example.com",
+      "use": "home"
+    }
+  ]
+}
