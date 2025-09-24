@@ -1,3 +1,6 @@
+
+<img width="631" height="152" alt="fhir-logo-www" src="https://github.com/user-attachments/assets/ddacdb6b-3c63-4bb2-97f0-5bec181fe25c" />
+
 # FHIR Learning & Documentation
 
 This repository is dedicated to learning and documenting everything related to FHIR (Fast Healthcare Interoperability Resources).
